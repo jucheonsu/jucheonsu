@@ -1,228 +1,129 @@
-<!-- ============================== -->
-<!-- 🎉 WELCOME BANNER -->
-<!-- ============================== -->
+# 👋 안녕하세요, 도전하며 성장하는 개발자 주천수입니다.
 
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:fcfdfd&height=180&text=Welcome%20to%20JOO’s%20GitHub!&animation=twinkling&fontColor=000000&fontSize=40" 
-    src-dark="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&text=Welcome%20to%20JOO’s%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40"
-  />
-</div>
+- 백엔드 개발을 중심으로 다양한 웹·앱 서비스를 개발하며, AI 기술을 실제 서비스에 적용하는 경험을 쌓고 있습니다.
 
-<!-- ============================== -->
-<!-- 📬 Contact -->
-<!-- ============================== -->
-<div align="center">
-  <h2>📬 Contact</h2>
-  <br/>
-  <a href="https://www.instagram.com/cheon_su_0705/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.notion.so/Profile-20ebb2934a84807a93cff2b555a04ced?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-  </a>
-  <a href="mailto:jucheonsu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/%EC%B2%9C%EC%88%98-%EC%A3%BC-30277b290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://joosworkspacehq.slack.com/team/U09JGRCNQQ5" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
-  </a>
-</div>
+<!--
+## 📁 포트폴리오
 
-<br/>
+> 전체 프로젝트 중 주요 프로젝트를 선별한 포트폴리오입니다.
 
-<!-- ============================== -->
-<!-- 📊 GitHub Stats -->
-<!-- ============================== -->
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <br/>
+[PDF]
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jucheonsu&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
-    src-dark="https://github-profile-trophy.vercel.app/?username=jucheonsu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
-    height="150"
-    alt="GitHub Trophy"
-  />
-</div>
+<details>
+<summary><b>📖 포트폴리오 미리보기</b></summary>
 
-<br/>
+<img src="./portfolio/image/01.png" width="100%" alt="포트폴리오 1페이지">
+<img src="./portfolio/image/02.png" width="100%" alt="포트폴리오 2페이지">
+<img src="./portfolio/image/03.png" width="100%" alt="포트폴리오 3페이지">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jucheonsu&show_icons=true&theme=default&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucheonsu&layout=compact&theme=default" height="160"/>
-</div>
+</details>
+-->
 
-<br/>
+## 💻 프로젝트
 
-<!-- ============================== -->
-<!-- 🏢 Organization -->
-<!-- ============================== -->
+|           기간          |    프로젝트   |              설명              |                                                      GitHub                                                     |                                                                                                                                                                                                  링크 / 자료                                                                                                                                                                                                 |
+| :-------------------: | :-------: | :--------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   2025.08.03~**운영**   | DASOM Web |           동아리 홈페이지           |    <a href="https://github.com/DASOM-GitHub"><img src="./image/icon/github.png" width="22" alt="GitHub"></a>    |                                                                                                                                                     <a href="https://dmu-dasom.or.kr/"><img src="./image/icon/dasom.png" width="22" alt="DASOM"></a>                                                                                                                                                     |
+| 2025.08.03~2026.02.20 |  SpeakOn  |       AI 비즈니스 영어 회화 서비스      |     <a href="https://github.com/UMC-SpeakOn"><img src="./image/icon/github.png" width="22" alt="GitHub"></a>    |                                                                                                                                                   <a href="./project/SpeakOn/pdf/SpeakOn.pdf"><img src="./image/icon/pdf.png" width="22" alt="PDF"></a>                                                                                                                                                  |
+|   2026.02.17~**운영**   |   WAVEY   |         한국 AI 가이드 서비스        | <a href="https://github.com/WAVEY-Find-K-Spots"><img src="./image/icon/github.png" width="22" alt="GitHub"></a> |                                                                                                                                     <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001009310"><img src="./image/icon/one-store.png" width="22" alt="ONE Store"></a>                                                                                                                                     |
+|   2026.03.01~**운영**   |   PICKE   | 지식을 듣고 생각을 Pick하는 참여형 지식 플랫폼 |      <a href="https://github.com/SWYP-Find"><img src="./image/icon/github.png" width="22" alt="GitHub"></a>     | <a href="https://apps.apple.com/us/app/picke-%ED%94%BD%EC%BC%80/id6776677382"><img src="./image/icon/app-store.png" width="22" alt="App Store"></a>  <a href="https://play.google.com/store/apps/details?id=com.picke.app"><img src="./image/icon/google-store.png" width="22" alt="Google Play"></a>  <a href="./project/PICKE/pdf/PICKE.pdf"><img src="./image/icon/pdf.png" width="22" alt="PDF"></a> |
+| 2026.03.22~2026.08.16 |     찍먹    |    20대를 위한 맞춤 문화활동 추천 서비스    |     <a href="https://github.com/JJICK-MEOK"><img src="./image/icon/github.png" width="22" alt="GitHub"></a>     |                                                                                                                          <a href="https://drive.google.com/file/d/1s8F_m23d7jdXUUGg_VGzS9RAYf5I2v4W/view?usp=sharing"><img src="./image/icon/pdf.png" width="22" alt="PDF"></a>                                                                                                                          |
+| 2026.08.03~2026.10.16 | WORKSAFE+ |   건설 현장 IoT 드론 안전 모니터링 시스템   |   <a href="https://github.com/2026-DASOM-EXPO"><img src="./image/icon/github.png" width="22" alt="GitHub"></a>  |                                                                                                                                             <a href="./project/WORKSAFE-PLUS/pdf/WORKSAFE-PLUS.pdf"><img src="./image/icon/pdf.png" width="22" alt="PDF"></a>                                                                                                                                            |
 
-<div align="center">
-  <h2>🏢 Organization</h2>
-  <br/>
-  <a href="https://github.com/DASOM-GitHub" target="_blank">
-    <img src="https://github.com/user-attachments/assets/32f66bfa-865d-4b5b-91f5-6878ba54a2a0" width="99" height="96" />
-  </a>
-  <a href="https://github.com/KES-DASOM" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5f526059-a827-47c2-b35a-c5948811beaa" width="99" height="96" />
-  </a>
-  <a href="https://github.com/Hey-Doctor" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0ca759a8-e1e4-42df-a13b-3e44c088b01b" width="99" height="96" />
-  </a>
-  <a href="https://github.com/DMUMC" target="_blank">
-    <img src="https://github.com/user-attachments/assets/57573886-2f9a-4840-a1d6-bdb63a6d48f4" width="99" height="96" />
-  </a>
-  <a href="https://github.com/JSP-Servlet-Lab" target="_blank">
-    <img src="https://github.com/user-attachments/assets/194828c4-dc4f-4c7c-803f-cb1e4c5d2352" width="99" height="96" />
-  </a>
-</div>
+## 👥 동아리
 
-</br>
+|           기간          |        동아리       |  역할  |      프로젝트     |
+| :-------------------: | :--------------: | :--: | :-----------: |
+| 2025.03.15~2027.02.28 |     **DASOM**    | 학술부장 | **DASOM Web** |
+| 2025.08.18~2026.02.20 |    **UMC 9기**    |  백엔드 |  **SpeakOn**  |
+| 2026.02.13~2026.08.31 | **IT's TIME 9기** |  백엔드 |     **찍먹**    |
+| 2026.02.17~2026.04.25 |   **SWYP 앱 4기**  |  백엔드 |   **PICKE**   |
 
-<!-- ============================== -->
-<!-- 🎯 Coding Test -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🎯 Coding Test</h2>
-  <br/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jucheonsu" />
-  <img src="http://mazandi.herokuapp.com/api?handle=jucheonsu&theme=cold" />
-</div>
+## 🏆 수상
 
-</br>
+|     일자     |    수상   |    대회    |          기관          |
+| :--------: | :-----: | :------: | :------------------: |
+| 2025.06.02 | **장려상** |    솜커톤   |    동양미래대학교 컴퓨터공학부    |
+| 2026.04.25 |  **대상** |   SWYP 앱 4기   |        (주)스위그        |
+| 2026.10.16 | **장려상** | 동양미래EXPO | 동양미래대학교 / KES(한국전자전) |
 
-<!-- ============================== -->
-<!-- 💻 Languages -->
-<!-- ============================== -->
-<div align="center">
-  <h2>💻 Languages</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white" />
-</div>
+## 📜 자격증
 
-<br/>
+|     취득일    |        자격증       |    발급기관    |
+| :--------: | :--------------: | :--------: |
+| 2024.06.21 |     **SQLD**     | 한국데이터산업진흥원 |
+| 2026.03.11 | **정보처리산업기사(필기)** |  한국산업인력공단  |
 
-<!-- ============================== -->
-<!-- ⚙️ Frameworks -->
-<!-- ============================== -->
-<div align="center">
-  <h2>⚙️ Frameworks</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white" />
-</div>
+## 🎓 교육
 
-<br/>
+|           기간          |          기관         |            설명           |
+| :-------------------: | :-----------------: | :---------------------: |
+| 2024.09.22~2025.02.12 | **(주)코리아아이티아카데미인천** | 웹개발, Cisco, Linux, Java |
+|  2026.09.21~2026.10.7 |   **(사)스마트제조혁신협회**  |     제조AI 솔루션 인턴십 과정     |
 
-<!-- ============================== -->
-<!-- 📚 Libraries -->
-<!-- ============================== -->
-<div align="center">
-  <h2>📚 Libraries</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
-</div>
+## 🌐 대외활동
 
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th align="center">일시/기간</th>
+      <th align="center">활동</th>
+      <th align="center">기관</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2025.04.05 13:00~18:00</td>
+      <td align="center"><b>Build with AI : Hello-World</b></td>
+      <td align="center" rowspan="2">Google for Developers (GDG)</td>
+    </tr>
+    <tr>
+      <td align="center">2025.05.24 13:00~18:30</td>
+      <td align="center"><b>Kprintf 2025</b></td>
+    </tr>
+    <tr>
+      <td align="center">2026.03.16~2026.05.13</td>
+      <td align="center"><b>서울시 빅데이터 활용 경진대회 창업부문</b></td>
+      <td align="center">서울특별시</td>
+    </tr>
+    <tr>
+      <td align="center">2026.03.30~2026.09.21</td>
+      <td align="center"><b>2026 관광데이터 활용 공모전 웹/앱 개발 부문</b></td>
+      <td align="center">한국관광공사 X 카카오</td>
+    </tr>
+    <tr>
+      <td align="center">2026.04.09~2026.05.28</td>
+      <td align="center"><b>AI 활용 태일씨앤티 홈페이지 리뉴얼 경진대회</b></td>
+      <td align="center">(주)태일씨앤티</td>
+    </tr>
+    <tr>
+      <td align="center">2026.04.27~2026.06.26</td>
+      <td align="center"><b>제4회 문화체육관광 인공지능·데이터 활용 공모전</b></td>
+      <td align="center">문화체육관광부</td>
+    </tr>
+    <tr>
+      <td align="center">2026.05.14~2026.09.04</td>
+      <td align="center"><b>모두의 창업 1기</b></td>
+      <td align="center" rowspan="2">중소벤처기업부</td>
+    </tr>
+    <tr>
+      <td align="center">2026.09.15~진행중</td>
+      <td align="center"><b>모두의 창업 2기</b></td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- ============================== -->
-<!-- 🛠️ Tools -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🛠️ Tools</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
-</div>
 
-<br/>
+## 🏢 국가근로
 
-<!-- ============================== -->
-<!-- 🗄️ OS -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🗄️ OS</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
-</div>
+|             근로기관             |                                                                                                                          기간 및 주요 업무                                                                                                                          |
+| :--------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **서울특별시교육청교육연수원<br>초등교원연수부** | **2025.07.01 ~ 08.29**<br>초등 1급 정교사 자격연수 · 유/초등 교육전문직원 임용후보자 직무연수 · 초등 특수/교감 자격연수 운영<br><br>**2026.01.02 ~ 01.30**<br>유치원 1급 정교사 자격연수 · 유/초등 복직교사 역량강화 직무연수 운영<br><br>**2026.07.01 ~ 08.21**<br>초등(특수) 교감 자격연수 · 유/초등 교육전문직원 임용후보자 직무연수 · 유치원 1급 정교사 자격연수 운영 |
 
-<br/>
-
-<!-- ============================== -->
-<!-- 🌐 Platforms -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🌐 Platforms</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 🗄️ Databases -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🗄️ Databases</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 🎨 Design -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🎨 Design</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 🤝 Collaboration -->
-<!-- ============================== -->
-<div align="center">
-  <h2>🤝 Collaboration</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 👋 Footer -->
-<!-- ============================== -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:fcfdfd&height=150&section=footer" 
-    src-dark="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=150&section=footer"
-  />
-</div>
+<!--
+상세 업무
+· 민원 응대 및 안내
+· 강의실 및 간식 세팅/정리
+· 평가실 인솔 및 평가 감독
+· 온/오프라인 근태 관리
+-->
